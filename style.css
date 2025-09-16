@@ -191,8 +191,18 @@ ul.navbar li a.active {
 
 .rightimg {
   display: block;
-    float: right;
-    max-height: 200px;
-    max-width: 30%;
+  float: right;
+  max-height: 200px;
+  max-width: 30%;
 }
 
+.tourneyimg {
+  display: block;
+  float: right;
+  max-height: 150px;
+  max-width: 30%;
+}
+
+.listing {
+  min-height:160px;
+}
