@@ -205,5 +205,22 @@ ul.navbar li a.active {
 
 .listing {
   min-height:160px;
+  padding-top:1.2em;
+  padding-bottom:1.2em;
 }
 
+.kevbutton {
+  display:block;
+  /* float:right; */
+  /* display: block; */
+      margin-left: auto;
+      margin-right: auto;
+  min-width:1%;
+}
+
+textarea {
+  width:100%;
+  resize:none;
+  background-color: #001D32;
+  color:white;
+}
